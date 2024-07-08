@@ -1,12 +1,12 @@
 <p align="left">
   <a href="https://github.com/tukky-14">
-    <img src="https://komarev.com/ghpvc/?username=tukky" alt="tukky" />
+    <img src="https://komarev.com/ghpvc/?username=tukky-14" alt="tukky" />
   </a>
   <a href="http://twitter.com/tukkyhistory">
-    <img height="20" src="https://img.shields.io/twitter/follow/tukky?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/tukkyhistory?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/tukky-14">
-    <img height="20" src="https://img.shields.io/github/followers/tukky?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/tukky-14?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/tukky">
     <img height="20" src="https://qiita-badge.apiapi.app/s/tukky/posts.svg" />
